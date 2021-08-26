@@ -1,0 +1,140 @@
+{
+  "livros": [
+    {
+        "titulo": "Harry Potter e a Pedra Filosofal",
+        "autor": "J. K. Rowling",
+        "editora":"Rocco",
+        "anoLancamento": "1997",
+        "descricao": "Harry Potter e a Pedra Filosofal é o primeiro dos sete livros da série de fantasia Harry Potter, escrita por J. K. Rowling.",
+        "urlFoto": "https://www.rocco.com.br/wp-content/uploads/2020/10/Harry-Potter-1.jpg",
+        "genero": "Fantasia"
+    },
+{
+        "titulo": "Harry Potter e a Câmera Secreta",
+        "autor": "J. K. Rowling",
+        "editora":"Rocco",
+        "anoLancamento": "1998",
+        "descricao": "Harry Potter e a Câmera Secreta é o segundo dos sete livros da série de fantasia Harry Potter, escrita por J. K. Rowling.",
+        "urlFoto": "https://www.rocco.com.br/wp-content/uploads/2020/10/Harry-Potter-2.jpg",
+        "genero": "Fantasia"
+    },
+{
+        "titulo": "Harry Potter e o Prisioneiro de Azkaban",
+        "autor": "J. K. Rowling",
+        "editora":"Rocco",
+        "anoLancamento": "1999",
+        "descricao": "Harry Potter e o Prisioneiro de Azkaban é o terceiro dos sete livros da série de fantasia Harry Potter, escrita por J. K. Rowling.",
+        "urlFoto": "https://www.rocco.com.br/wp-content/uploads/2020/10/Harry-Potter-3.jpg",
+        "genero": "Fantasia"
+    },
+{
+        "titulo": "Harry Potter e o Cálice de Fogo",
+        "autor": "J. K. Rowling",
+        "editora":"Rocco",
+        "anoLancamento": "2000",
+        "descricao": "Harry Potter e o Cálice de Fogo é o quarto dos sete livros da série de fantasia Harry Potter, escrita por J. K. Rowling.",
+        "urlFoto": "https://www.rocco.com.br/wp-content/uploads/2020/10/Harry-Potter-4.jpg",
+        "genero": "Fantasia"
+    },
+{
+        "titulo": "Harry Potter e a Ordem da Fênix",
+        "autor": "J. K. Rowling",
+        "editora":"Rocco",
+        "anoLancamento": "2003",
+        "descricao": "Harry Potter e a Ordem da Fênix é o quinto dos sete livros da série de fantasia Harry Potter, escrita por J. K. Rowling.",
+        "urlFoto": "https://www.rocco.com.br/wp-content/uploads/2020/10/Harry-Potter-5.jpg",
+        "genero": "Fantasia"
+    },
+{
+        "titulo": "Harry Potter e o Enigma do Príncipe",
+        "autor": "J. K. Rowling",
+        "editora":"Rocco",
+        "anoLancamento": "2005",
+        "descricao": "Harry Potter e o Enigma do Príncipe é o sexto dos sete livros da série de fantasia Harry Potter, escrita por J. K. Rowling.",
+        "urlFoto": "https://www.rocco.com.br/wp-content/uploads/2020/10/Harry-Potter-6.jpg",
+        "genero": "Fantasia"
+    },
+{
+        "titulo": "Harry Potter e as Relíquias da Morte",
+        "autor": "J. K. Rowling",
+        "editora":"Rocco",
+        "anoLancamento": "2007",
+        "descricao": "Harry Potter e as Relíquias da Morte é o último dos sete livros da série de fantasia Harry Potter, escrita por J. K. Rowling.",
+        "urlFoto": "https://www.rocco.com.br/wp-content/uploads/2020/10/Harry-Potter-7.jpg",
+        "genero": "Fantasia"
+    },
+{
+        "titulo": "Os Homens Que Não Amavam as MUlheres",
+        "autor": "Stieg Larsson",
+        "editora":"Companhia das letras",
+        "anoLancamento": "2015",
+        "descricao": "Traz uma dupla irresistível de protagonistas-detetives: o jornalista Mikael Blomkvist e a genial e perturbada hacker Lisbeth Salander.",
+        "urlFoto": "https://cdl-static.s3-sa-east-1.amazonaws.com/covers/9788535926163_gg.jpg",
+        "genero": "Suspense"
+    },
+{
+        "titulo": "A Menina Que Brincava Com Fogo",
+        "autor": "Stieg Larsson",
+        "editora":"Companhia das letras",
+        "anoLancamento": "2015",
+        "descricao": "O segundo volume da série Millennium tem como fio condutor a personalidade complexa e os segredos ocultos de Lisbeth Salander.",
+        "urlFoto": "https://cdl-static.s3-sa-east-1.amazonaws.com/covers/9788535926170_gg.jpg",
+        "genero": "Suspense"
+    },
+{
+        "titulo": "A Rainha do Castelo de Ar",
+        "autor": "Stieg Larsson",
+        "editora":"Companhia das letras",
+        "anoLancamento": "2015",
+        "descricao": "Terceiro volume da série Millennium, A rainha do castelo de ar reúne os melhores ingredientes da série.",
+        "urlFoto": "https://cdl-static.s3-sa-east-1.amazonaws.com/covers/9788535926187_gg.jpg",
+        "genero": "Suspense"
+    },
+{
+        "titulo": "O Código Da Vinci",
+        "autor": "Dan Brown",
+        "editora":"Arqueiro",
+        "anoLancamento": "2004",
+        "descricao": "Um assassinato dentro do Museu do Louvre, em Paris, traz à tona uma sinistra conspiração.",
+        "urlFoto": "https://www.editoraarqueiro.com.br/media/livros_livro/codigo-da-vinci_imprensa.jpg.200x300_q85_upscale.jpg",
+        "genero": "Policial"
+    },
+{
+        "titulo": "Anjos e Demônios",
+        "autor": "Dan Brown",
+        "editora":"Arqueiro",
+        "anoLancamento": "2000",
+        "descricao": "Às vésperas do conclave que vai eleger o novo Papa, Langdon é chamado às pressas para analisar um misterioso símbolo.",
+        "urlFoto": "https://www.editoraarqueiro.com.br/media/livros_livro/anjos_e_demons_site.jpg.200x300_q85_upscale.jpg",
+        "genero": "Policial"
+    },
+{
+        "titulo": "O Símbulo Perdido",
+        "autor": "Dan Brown",
+        "editora":"Arqueiro",
+        "anoLancamento": "2009",
+        "descricao": "Robert Langdon está de volta com seus profundos conhecimentos de simbologia e sua brilhante habilidade para solucionar problemas.",
+        "urlFoto": "https://www.editoraarqueiro.com.br/media/livros_livro/simbolo-perdido_imprensa.jpg.200x300_q85_upscale.jpg",
+        "genero": "Policial"
+    },
+{
+        "titulo": "Inferno",
+        "autor": "Dan Brown",
+        "editora":"Arqueiro",
+        "anoLancamento": "2013",
+        "descricao": "No meio da noite, o renomado simbologista Robert Langdon acorda de um pesadelo, num hospital.",
+        "urlFoto": "https://www.editoraarqueiro.com.br/media/livros_livro/inferno_capa-web.jpg.200x300_q85_upscale.jpg",
+        "genero": "Policial"
+    },
+{
+        "titulo": "Fortaliza Digital",
+        "autor": "Dan Brown",
+        "editora":"Arqueiro",
+        "anoLancamento": "2008",
+        "descricao": "Brown mergulha no intrigante universo dos serviços de informação e ambienta sua história na ultra-secreta e multibilionária NSA",
+        "urlFoto": "https://www.editoraarqueiro.com.br/media/Fortaleza_digital_SITE.jpg.200x300_q85_upscale.jpg",
+        "genero": "Policial"
+    }
+    
+  ]
+}

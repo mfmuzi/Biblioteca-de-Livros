@@ -1,0 +1,20 @@
+<mat-toolbar class="app-title">Cadastrar Livro</mat-toolbar>
+<div class="main-div">
+  <mat-card class="center width50" *ngIf="cadastro" >
+    <form autocomplete="off" novalidate [formGroup]="cadastro" (ngSubmit)="submit()" (ngReset)="reiniciarForm()">
+      <mat-card-content>
+       <dio-input-text titulo="Título *" controlName="titulo" [formGroup]="cadastro"></dio-input-text>
+       <dio-input-text titulo="Autor *" controlName="autor" [formGroup]="cadastro"></dio-input-text>
+       <dio-input-text titulo="Editora *" controlName="editora" [formGroup]="cadastro"></dio-input-text>
+       <dio-input-text titulo="Link Foto" controlName="urlFoto" [formGroup]="cadastro"></dio-input-text>
+       <dio-input-text titulo="Ano de Lançamento *" controlName="anoLancamento" [formGroup]="cadastro"></dio-input-text> 
+        <dio-input-textarea titulo="Descrição" controlName="descricao" [formGroup]="cadastro"></dio-input-textarea>
+        <dio-input-select titulo="Gênero *" [opcoes]="generos" controlName="genero" [formGroup]="cadastro"></dio-input-select>
+       </mat-card-content>
+      <mat-card-actions>
+        <button type="submit" color="accent" mat-raised-button>Salvar</button>
+        <button type="reset" color="warn" mat-raised-button>Cancelar</button>
+      </mat-card-actions>
+    </form>
+  </mat-card>
+</div>
